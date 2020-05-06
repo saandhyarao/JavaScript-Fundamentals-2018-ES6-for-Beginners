@@ -1,0 +1,6 @@
+<script>
+/*
+Write the program based on the map object in JavaScript using the JavaScript Editor
+*/
+
+</script>
