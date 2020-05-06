@@ -1,0 +1,7 @@
+<Script>
+/*
+Write the program to build your own map and set and get the value of the map in JavaScript using JavaScript Editor
+*/
+
+
+</Script>
