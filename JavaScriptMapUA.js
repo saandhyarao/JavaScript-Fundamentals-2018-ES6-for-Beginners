@@ -1,0 +1,6 @@
+<script>
+	/*
+	Write the program to create the map and set and get the value of the map
+	 and Write the program to set the objects and fetch the data in JavaScript using JavaScript Editor
+	*/
+</script>
