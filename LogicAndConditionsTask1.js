@@ -1,0 +1,6 @@
+<script>
+/*
+Write the program using the multiple conditions within one statements in JavaScript Using JavaScript Editor
+*/
+
+</script>
